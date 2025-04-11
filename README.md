@@ -159,17 +159,6 @@ npm run package-mac
 yarn package-mac
 ```
 
-**For Windows (Installer):**
-```bash
-# Using npm
-npm run package-win
-
-# Or using yarn
-yarn package-win
-```
-
-The packaged applications will be available in the `release` directory.
-
 **What the scripts do:**
 - Create necessary directories for the application
 - Clean previous builds to ensure a fresh start
